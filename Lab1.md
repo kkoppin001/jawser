@@ -13,7 +13,7 @@
 | ---     | ---         | ---    |
 | help    | man         |        |
 | Get-Location | pwd    |        |
-| Get-ChildItem | ls    |        |
+| Get-ChildItem | ls    |Lists item in current directory        |
 | mkdir   | mkdir       |        |
 | Set-Location | cd     |        |
 | New-Item | touch      |        |
