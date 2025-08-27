@@ -1,7 +1,7 @@
 ## Lab 01
 
-- Name: Aidan McGohan
-- Email: mcgohan.8@wright.edu
+- Name: 
+- Email: 
 
 ## Part 1 - GitHub Profile
 
@@ -13,7 +13,7 @@
 | ---     | ---         | ---    |
 | help    | man         |        |
 | Get-Location | pwd    |        |
-| Get-ChildItem | ls    |Lists item in current directory        |
+| Get-ChildItem | ls    |        |
 | mkdir   | mkdir       |        |
 | Set-Location | cd     |        |
 | New-Item | touch      |        |
