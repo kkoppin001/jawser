@@ -11,7 +11,7 @@
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |        |
+| help    | man         |  displays help for certain things      |
 | Get-Location | pwd    |        |
 | Get-ChildItem | ls    |        |
 | mkdir   | mkdir       |        |
@@ -33,7 +33,7 @@ My Command Line Shell is:
 
 ### Navigating My OS on the Command Line
 
-1. Full / absolute path to your user's home directory:
+1. Full / absolute path to your user's home directory: C:\Users\student
 2. Create a directory named `DirA`:
 3. Create a directory named `Dir B`:
 4. Go into `DirA`:
